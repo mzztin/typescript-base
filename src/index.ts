@@ -1,4 +1,4 @@
 import "dotenv/config";
-import "    "
+import "module-alias/register";
 
-console.log('hello word!')
+console.log("hello word!");
